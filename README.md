@@ -1,2 +1,2 @@
-###### ПИ-222 / Никитин А. Шарипов И. Рахман Л. ######
+###### РџР-222 / РќРёРєРёС‚РёРЅ. Рђ РЁР°СЂРёРїРѕРІ Р. Р Р°С…РјР°РЅ Р›. ######
 [![Build Status](https://travis-ci.com/fothdr/Nikitin.svg?branch=master)](https://travis-ci.com/fothdr/Nikitin)
