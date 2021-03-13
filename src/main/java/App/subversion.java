@@ -15,8 +15,7 @@ public class subversion {
     
     
 
-    public static String ourinfo = "Никитин А.В (19130152) | Шарипов И.Р.(19130615) 13.03.2021 | Чернышков А.А.(19130340) | Рахман Л.А(191306371)13.03.2021
-
+    public static String ourinfo = "Никитин А.В (19130152) | Шарипов И.Р.(19130615) 13.03.2021 | Чернышков А.А.(19130340) | Рахман Л.А(191306371)13.03.2021";
 	public subversion() {
 	main_GUI.setTitle ("Using subversion for developers");
 	main_GUI.setBounds(500,400,400,500);
